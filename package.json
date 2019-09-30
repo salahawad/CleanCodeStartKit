@@ -63,7 +63,7 @@
     "ext": "js"
   },
   "devDependencies": {
-    "eslint": "^6.0.1",
+    "eslint": "^6.5.0",
     "eslint-config-google": "^0.13.0",
     "eslint-config-standard": "^12.0.0",
     "eslint-plugin-import": "^2.18.0",
