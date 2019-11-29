@@ -14,7 +14,7 @@
     "bcrypt-nodejs": "0.0.3",
     "body-parser": "^1.18.3",
     "check-dependencies": "^1.1.0",
-    "connect-mongo": "^2.0.3",
+    "connect-mongo": "^3.2.0",
     "cookie-parser": "^1.4.4",
     "cors": "^2.8.5",
     "crc": "^3.8.0",
