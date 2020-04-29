@@ -29,7 +29,7 @@
     "full-icu": "^1.2.1",
     "helmet": "^3.15.0",
     "intl": "^1.2.5",
-    "jquery": "^3.3.1",
+    "jquery": "^3.5.0",
     "jsonwebtoken": "^8.4.0",
     "lodash": "^4.17.14",
     "mongo-sanitize": "^1.0.1",
