@@ -19,7 +19,7 @@
     "cors": "^2.8.5",
     "crc": "^3.8.0",
     "dotenv": "^8.0.0",
-    "eslint-plugin-jest": "^22.7.1",
+    "eslint-plugin-jest": "^23.18.0",
     "express": "^4.16.4",
     "express-fileupload": "^1.1.1-alpha.2",
     "express-jwt": "^5.3.1",
